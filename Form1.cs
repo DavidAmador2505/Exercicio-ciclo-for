@@ -12,7 +12,7 @@ namespace Exercicio_ciclo_for
             this.Text = "Página Principal";
             Btn_For.BackColor = Color.Black;
             button1.BackColor = Color.Black;    
-        }
+        } 
 
         private void Btn_For_Click(object sender, EventArgs e)
         {
